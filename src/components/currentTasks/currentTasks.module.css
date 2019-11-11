@@ -1,0 +1,13 @@
+.currentTasks {
+    width: 25%;
+    height: 450px;
+    border: 2px solid black;
+    background-color: rgb(226, 226, 226);
+
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}

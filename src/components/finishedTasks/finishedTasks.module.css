@@ -1,0 +1,12 @@
+.finishedTasks {
+    width: 25%;
+    height: 450px;
+    border: 2px solid blue;
+    background-color: lightblue;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
